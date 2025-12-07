@@ -17,7 +17,7 @@ The project includes a featured hero section, category-based news cards, article
 ---
 
 ## 📸 Screenshots
----
+
 
 ### 🏁 Home – Hero Section
 ![Home Hero](./img/screenshot-home-hero.png)
